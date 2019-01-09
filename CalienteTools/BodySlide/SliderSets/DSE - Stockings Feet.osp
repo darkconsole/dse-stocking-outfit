@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="DSE - Stockings Feet">
+        <DataFolder>DSE - Stockings Feet</DataFolder>
+        <SourceFile>DSE - Stockings Feet.nif</SourceFile>
+        <OutputPath>meshes\dse-stockings-outfit</OutputPath>
+        <OutputFile GenWeights="true">stockings-feet</OutputFile>
+        <Shape target="F-Feet01">F-Feet01</Shape>
+        <Shape target="Feet" DataFolder="CBBE">Feet</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="FeetAnkleSize" target="Feet">CBBE Feet.osd\FeetAnkleSize</Data>
+            <Data name="F-Feet01AnkleSize" target="F-Feet01" local="true">DSE - Stockings Feet.osd\F-Feet01AnkleSize</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" small="0" big="0">
+            <Data name="FeetFeetFeminine" target="Feet">CBBE Feet.osd\FeetFeetFeminine</Data>
+            <Data name="F-Feet01FeetFeminine" target="F-Feet01" local="true">DSE - Stockings Feet.osd\F-Feet01FeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

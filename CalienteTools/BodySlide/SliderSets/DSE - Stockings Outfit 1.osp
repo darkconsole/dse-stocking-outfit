@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="DSE - Stockings Outfit 1">
+        <DataFolder>DSE - Stockings Outfit 1</DataFolder>
+        <SourceFile>DSE - Stockings Outfit 1.nif</SourceFile>
+        <OutputPath>meshes\dse-stockings-outfit</OutputPath>
+        <OutputFile GenWeights="true">stockingbody1</OutputFile>
+        <Shape target="BodyArms002">BodyArms002</Shape>
+        <Shape target="BodyLegs002">BodyLegs002</Shape>
+        <Shape target="CBBE_outfit" DataFolder="DSE - Stockings Outfit 1">CBBE_outfit</Shape>
+        <Slider name="AnkleSize" invert="false" small="100" big="0">
+            <Data name="CBBE_outfitAnkleSize" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitAnkleSize</Data>
+            <Data name="BodyLegs002AnkleSize" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002AnkleSize</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitAppleCheeks" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitArms" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitArms</Data>
+            <Data name="BodyArms002Arms" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBack" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBack</Data>
+            <Data name="BodyArms002Back" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBackArch" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBelly" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBigBelly" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBigButt" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBigButt</Data>
+            <Data name="BodyLegs002BigButt" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBigTorso" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBigTorso</Data>
+            <Data name="BodyArms002BigTorso" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastCenter" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastCenterBig" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastCleavage" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastFlatness2" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastFlatness" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastGravity2" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastHeight" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastPerkiness" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastPerkiness</Data>
+        </Slider>
+        <Slider name="Breasts" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreasts" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreasts</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastsFantasy" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastsFantasy</Data>
+            <Data name="BodyArms002BreastsFantasy" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002BreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastsGone" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastsNewSH" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastsNewSH</Data>
+            <Data name="BodyArms002BreastsNewSH" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastsSmall" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastsSmall</Data>
+            <Data name="BodyArms002BreastsSmall" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastsSmall2" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastsSmall2</Data>
+            <Data name="BodyArms002BreastsSmall2" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastsTogether" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastTopSlope" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitBreastWidth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitButt" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitButt</Data>
+            <Data name="BodyLegs002Butt" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002Butt</Data>
+        </Slider>
+        <Slider name="ButtClassic" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitButtClassic" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitButtClassic</Data>
+            <Data name="BodyLegs002ButtClassic" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002ButtClassic</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitButtCrack" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitButtCrack</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitButtShape2" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitButtShape2</Data>
+            <Data name="BodyLegs002ButtShape2" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitButtSmall" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitButtSmall</Data>
+            <Data name="BodyLegs002ButtSmall" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitCalfSize" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitCalfSize</Data>
+            <Data name="BodyLegs002CalfSize" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitCalfSmooth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitCalfSmooth</Data>
+            <Data name="BodyLegs002CalfSmooth" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitChestDepth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitChestDepth</Data>
+            <Data name="BodyArms002ChestDepth" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitChestWidth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitChestWidth</Data>
+            <Data name="BodyArms002ChestWidth" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitChubbyArms" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitChubbyArms</Data>
+            <Data name="BodyArms002ChubbyArms" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitChubbyButt" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitChubbyButt</Data>
+            <Data name="BodyLegs002ChubbyButt" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitChubbyLegs" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitChubbyLegs</Data>
+            <Data name="BodyLegs002ChubbyLegs" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitChubbyWaist" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitCrotchBack" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitCrotchBack</Data>
+            <Data name="BodyLegs002CrotchBack" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002CrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitDoubleMelon" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitDoubleMelon</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitForearmSize" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitForearmSize</Data>
+            <Data name="BodyArms002ForearmSize" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002ForearmSize</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitGroin" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitGroin</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitHipBone" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitHipBone</Data>
+        </Slider>
+        <Slider name="HipForward" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitHipForward" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitHipForward</Data>
+            <Data name="BodyLegs002HipForward" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002HipForward</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitHips" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitHips</Data>
+            <Data name="BodyLegs002Hips" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitHipUpperWidth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitKneeHeight" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitKneeHeight</Data>
+            <Data name="BodyLegs002KneeHeight" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002KneeHeight</Data>
+        </Slider>
+        <Slider name="KneeShape" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitKneeShape" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitKneeShape</Data>
+            <Data name="BodyLegs002KneeShape" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002KneeShape</Data>
+        </Slider>
+        <Slider name="LegShapeClassic" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitLegShapeClassic" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitLegShapeClassic</Data>
+            <Data name="BodyLegs002LegShapeClassic" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002LegShapeClassic</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitLegsThin" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitLegsThin</Data>
+            <Data name="BodyLegs002LegsThin" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002LegsThin</Data>
+        </Slider>
+        <Slider name="MuscleAbs" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitMuscleAbs" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitMuscleAbs</Data>
+        </Slider>
+        <Slider name="MuscleArms" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitMuscleArms" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitMuscleArms</Data>
+            <Data name="BodyArms002MuscleArms" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002MuscleArms</Data>
+        </Slider>
+        <Slider name="MuscleButt" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitMuscleButt" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitMuscleButt</Data>
+        </Slider>
+        <Slider name="MuscleLegs" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitMuscleLegs" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitMuscleLegs</Data>
+            <Data name="BodyLegs002MuscleLegs" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002MuscleLegs</Data>
+        </Slider>
+        <Slider name="MusclePecs" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitMusclePecs" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitMusclePecs</Data>
+        </Slider>
+        <Slider name="NeckSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="CBBE_outfitNeckSeam" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNeckSeam</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNipBGone" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNipBGone</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleDistance" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleDown" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleLength" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleLength</Data>
+        </Slider>
+        <Slider name="NippleManga" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleManga" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleManga</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNipplePerkiness" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NipplePerkManga" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNipplePerkManga" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNipplePerkManga</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleSize" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleTip" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleTip</Data>
+        </Slider>
+        <Slider name="NippleTipManga" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleTipManga" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleTipManga</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitNippleUp" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitNippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitPregnancyBelly" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitPushUp" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitPushUp</Data>
+        </Slider>
+        <Slider name="RibsProminance" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitRibsProminance" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitRibsProminance</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitRoundAss" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitShoulderSmooth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitShoulderTweak" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitShoulderWidth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitShoulderWidth</Data>
+            <Data name="BodyArms002ShoulderWidth" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitSlimThighs" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitSlimThighs</Data>
+            <Data name="BodyLegs002SlimThighs" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002SlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitSternumDepth" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitSternumHeight" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitThighs" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitThighs</Data>
+            <Data name="BodyLegs002Thighs" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitTummyTuck" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitTummyTuck</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitWaist" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitWaistHeight" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitWideWaistLine" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitWideWaistLine</Data>
+        </Slider>
+        <Slider name="WristSize" invert="false" small="100" big="0">
+            <Data name="CBBE_outfitWristSize" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitWristSize</Data>
+            <Data name="BodyArms002WristSize" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002WristSize</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" small="0" big="0">
+            <Data name="CBBE_outfit7B Lower" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfit7B Lower</Data>
+            <Data name="BodyLegs0027B Lower" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs0027B Lower</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" small="0" big="0">
+            <Data name="CBBE_outfit7B Upper" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfit7B Upper</Data>
+            <Data name="BodyArms0027B Upper" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms0027B Upper</Data>
+        </Slider>
+        <Slider name="VanillaSSEHi" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitVanillaSSEHi" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitVanillaSSEHi</Data>
+            <Data name="BodyLegs002VanillaSSEHi" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002VanillaSSEHi</Data>
+            <Data name="BodyArms002VanillaSSEHi" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002VanillaSSEHi</Data>
+        </Slider>
+        <Slider name="VanillaSSELo" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitVanillaSSELo" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitVanillaSSELo</Data>
+            <Data name="BodyLegs002VanillaSSELo" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002VanillaSSELo</Data>
+            <Data name="BodyArms002VanillaSSELo" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002VanillaSSELo</Data>
+        </Slider>
+        <Slider name="OldBaseShape" invert="false" small="0" big="0">
+            <Data name="CBBE_outfitOldBaseShape" target="CBBE_outfit" local="true">DSE - Stockings Outfit 1.osd\CBBE_outfitOldBaseShape</Data>
+            <Data name="BodyLegs002OldBaseShape" target="BodyLegs002" local="true">DSE - Stockings Outfit 1.osd\BodyLegs002OldBaseShape</Data>
+            <Data name="BodyArms002OldBaseShape" target="BodyArms002" local="true">DSE - Stockings Outfit 1.osd\BodyArms002OldBaseShape</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
