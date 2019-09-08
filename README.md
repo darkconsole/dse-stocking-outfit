@@ -56,6 +56,10 @@ The Dye UI takes some getting used to. On the bottom of the Dye UI there are 15 
 **Hand Slots**
 1. Colours the main hand.
 
+**Panty Slots**
+1. Colours the main panty.
+2. Colours the trim.
+
 # For Minor Clipping
 
 Keep in mind that if the armour base body is the wrong shape the stockings will clip them. I have had to "fix" a lot of armours because they were using either the old CBBE shape, a UNP shape, or just for some stupid reason or another they just modified the base shape. Here is a quick How-To fix armours that are slightly off.
