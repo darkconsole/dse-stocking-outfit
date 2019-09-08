@@ -17,6 +17,8 @@ The arms and legs are broken into two pieces so that you can wear them with armo
 
 # Requirements
 
+* Skyrim Special Edition
+
 * SKSE 2.0.16 or Newer
   https://skse.silverlock.org/
 
