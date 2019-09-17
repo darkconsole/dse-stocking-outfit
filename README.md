@@ -37,8 +37,6 @@ The arms and legs are broken into two pieces so that you can wear them with armo
 
 * If you are using ENB, you must update to the latest version or the dye system will lock the game up.
 
-* If you experiences hangs and you are on the newest ENB then redownload the newest ENB because that guy will release updates that fixes things without changing the version number like a tard.
-
 * The RaceMenu version is non-negotiable. Anything older than 0.4.7 and you will begin to experiences crashes n shit.
 
 # Dyeing
@@ -64,7 +62,14 @@ The Dye UI takes some getting used to. On the bottom of the Dye UI there are 15 
 
 # For Minor Clipping
 
-Keep in mind that if the armour base body is the wrong shape the stockings will clip them. I have had to "fix" a lot of armours because they were using either the old CBBE shape, a UNP shape, or just for some stupid reason or another they just modified the base shape. Here is a quick How-To fix armours that are slightly off.
+Keep in mind that if the armour base body is the wrong shape even slightly the stockings will clip them the tollerance is so tight. I have had to "fix" a lot of armours. Here are some reasons why:
+
+* It was a [U]UNP shape someone ported from Oldrim.
+* It was an old CBBE shape someone ported from Oldrim.
+* It was just a really old Bodyslide Project so it was actually missing some modern sliders, like Knee Shape, which, BTW, only exists because I bitched about CBBE having no knees lol.
+* For some stupid reason or another they just unsmartly modified the base shape.
+
+Here is a quick How-To fix armours that are slightly off.
 
 1) Load the BodySlide Project in Outfit Studio
 2) delete the green base body shape from the list.
@@ -73,7 +78,7 @@ Keep in mind that if the armour base body is the wrong shape the stockings will 
 5) Slider > Conform All
 6) File > Save Project
 
-After that reload the project (select something else then select the correct one again) and rebulid the armour.
+After that reload the project (select something else then select the correct one again) and rebuild the armour.
 
 # For Major Clipping
 
