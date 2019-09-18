@@ -31,6 +31,12 @@
 			<mask index="1" path="dse-stockings-outfit\NylonPanty1.dm2.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
 		</geometry>
 	</object>
+	<object path="dse-stockings-outfit\box-nylon.nif">
+		<geometry name="StockingMain" texture="0">
+			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
+			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
+		</geometry>
+	</object>
 
 	<!-- Latex Stocking Set -->
 	<object path="dse-stockings-outfit\LatexLegs1_1.nif">
@@ -61,6 +67,12 @@
 		<geometry name="BodyPelvis002" texture="0">
 			<mask index="0" path="dse-stockings-outfit\LatexPanty1.dm1.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
 			<mask index="1" path="dse-stockings-outfit\LatexPanty1.dm2.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
+		</geometry>
+	</object>
+	<object path="dse-stockings-outfit\box-latex.nif">
+		<geometry name="StockingMain" texture="0">
+			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
+			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
 		</geometry>
 	</object>
 	
