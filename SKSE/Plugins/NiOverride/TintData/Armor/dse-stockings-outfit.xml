@@ -7,6 +7,11 @@
 			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
 		</geometry>
 	</object>
+	<object path="dse-stockings-outfit\NylonLegs2_1.nif">
+		<geometry name="F-Legs003" texture="0">
+			<mask index="0" path="dse-stockings-outfit\NylonPantyhose1.dm1.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
+		</geometry>
+	</object>
 	<object path="dse-stockings-outfit\NylonArms1_1.nif">
 		<geometry name="F-Arm01" texture="0">
 			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="ffffff" type="1" blend="normal" />
