@@ -3,122 +3,122 @@
 	<!-- Nylon Stocking Set -->
 	<object path="dse-stockings-outfit\NylonLegs1_1.nif">
 		<geometry name="F-Legs01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\NylonLegs2_1.nif">
 		<geometry name="F-Legs003" texture="0">
-			<mask index="0" path="dse-stockings-outfit\NylonPantyhose1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\NylonPantyhose1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\NylonArms1_1.nif">
 		<geometry name="F-Arm01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\NylonHands1_1.nif">
 		<geometry name="F-Hands01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\NylonFeet1_1.nif">
 		<geometry name="F-Feet01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\NylonPanty1_1.nif">
 		<geometry name="BodyPelvis002" texture="0">
-			<mask index="0" path="dse-stockings-outfit\NylonPanty1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\NylonPanty1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\NylonPanty1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\NylonPanty1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\box-nylon.nif">
 		<geometry name="StockingMain" texture="0">
-			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\NylonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\NylonStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 
 	<!-- Latex Stocking Set -->
 	<object path="dse-stockings-outfit\LatexLegs1_1.nif">
 		<geometry name="F-Legs01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\LatexArms1_1.nif">
 		<geometry name="F-Arm01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\LatexHands1_1.nif">
 		<geometry name="F-Hands01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\LatexFeet1_1.nif">
 		<geometry name="F-Feet01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\LatexPanty1_1.nif">
 		<geometry name="BodyPelvis002" texture="0">
-			<mask index="0" path="dse-stockings-outfit\LatexPanty1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\LatexPanty1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\LatexPanty1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\LatexPanty1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\box-latex.nif">
 		<geometry name="StockingMain" texture="0">
-			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
-			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\LatexStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\LatexStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 		</geometry>
 	</object>
 
 	<!-- Cotton Stocking Set -->
 	<object path="dse-stockings-outfit\CottonLegs1_1.nif">
 		<geometry name="F-Legs01" texture="dse-stockings-outfit\CottonStocking1.d.dds">
-			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonStocking1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 		<geometry name="F-Legs01" texture="dse-stockings-outfit\CottonKneeSock1.d.dds">
-			<mask index="0" path="dse-stockings-outfit\CottonKneeSock1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\CottonKneeSock1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonKneeSock1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\CottonArms1_1.nif">
 		<geometry name="F-Arm01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonStocking1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\CottonHands1_1.nif">
 		<geometry name="F-Hands01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonStocking1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\CottonFeet1_1.nif">
 		<geometry name="F-Feet01" texture="0">
-			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonStocking1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\CottonPanty1_1.nif">
 		<geometry name="BodyPelvis002" texture="0">
-			<mask index="0" path="dse-stockings-outfit\CottonPanty1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\CottonPanty1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonPanty1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\box-cotton.nif">
 		<geometry name="StockingMain" texture="0">
-			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonStocking1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 	</object>
