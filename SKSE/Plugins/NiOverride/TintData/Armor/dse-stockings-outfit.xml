@@ -83,9 +83,13 @@
 
 	<!-- Cotton Stocking Set -->
 	<object path="dse-stockings-outfit\CottonLegs1_1.nif">
-		<geometry name="F-Legs01" texture="0">
+		<geometry name="F-Legs01" texture="dse-stockings-outfit\CottonStocking1.d.dds">
 			<mask index="0" path="dse-stockings-outfit\CottonStocking1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
 			<mask index="1" path="dse-stockings-outfit\CottonStocking1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
+		</geometry>
+		<geometry name="F-Legs01" texture="dse-stockings-outfit\CottonKneeSock1.d.dds">
+			<mask index="0" path="dse-stockings-outfit\CottonKneeSock1.dm1.dds" alpha="1.0" color="333333" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\CottonKneeSock1.dm2.dds" alpha="1.0" color="eeeeee" type="1" blend="tint" />
 		</geometry>
 	</object>
 	<object path="dse-stockings-outfit\CottonArms1_1.nif">
