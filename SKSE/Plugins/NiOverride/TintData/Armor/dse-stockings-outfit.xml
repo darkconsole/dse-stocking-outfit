@@ -123,4 +123,47 @@
 		</geometry>
 	</object>
 
+	<!-- Fishnet Stocking Set -->
+	<object path="dse-stockings-outfit\FishnetLegs1_1.nif">
+		<geometry name="F-Legs01" texture="0">
+			<mask index="0" path="dse-stockings-outfit\FishnetStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\FishnetStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+		</geometry>
+	</object>
+	<object path="dse-stockings-outfit\FishnetLegs2_1.nif">
+		<geometry name="F-Legs003" texture="0">
+			<mask index="0" path="dse-stockings-outfit\FishnetPantyhose1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+		</geometry>
+	</object>
+	<object path="dse-stockings-outfit\FishnetArms1_1.nif">
+		<geometry name="F-Arm01" texture="0">
+			<mask index="0" path="dse-stockings-outfit\FishnetStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\FishnetStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+		</geometry>
+	</object>
+	<object path="dse-stockings-outfit\FishnetHands1_1.nif">
+		<geometry name="F-Hands01" texture="0">
+			<mask index="0" path="dse-stockings-outfit\FishnetStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\FishnetStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+		</geometry>
+	</object>
+	<object path="dse-stockings-outfit\FishnetFeet1_1.nif">
+		<geometry name="F-Feet01" texture="0">
+			<mask index="0" path="dse-stockings-outfit\FishnetStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\FishnetStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+		</geometry>
+	</object>
+	<object path="dse-stockings-outfit\FishnetPanty1_1.nif">
+		<geometry name="BodyPelvis002" texture="0">
+			<mask index="0" path="dse-stockings-outfit\FishnetPanty1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\FishnetPanty1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+		</geometry>
+	</object>
+	<object path="dse-stockings-outfit\box-fishnet.nif">
+		<geometry name="StockingMain" texture="0">
+			<mask index="0" path="dse-stockings-outfit\FishnetStocking1.dm1.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+			<mask index="1" path="dse-stockings-outfit\FishnetStocking1.dm2.dds" alpha="1.0" color="222222" type="1" blend="tint" />
+		</geometry>
+	</object>
+
 </tintmasks>
