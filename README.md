@@ -91,3 +91,11 @@ R.I.P.
 * They are very close to the base body so clipping may be unavoidable in some poses.
 
 * Because the hands and arms, legs and feet, are two pieces, a bit of a seam is unavoidable. In most of my tests it is generally unnoticable but your milage may very depending on how weird your BodySlide shape presets are.
+
+# Slot Usage
+
+* 33 - Hands
+* 37 - Feet
+* 53 - Legs
+* 54 - Panties
+* 58 - Arms
